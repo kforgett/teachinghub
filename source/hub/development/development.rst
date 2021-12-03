@@ -31,7 +31,7 @@ One of the objectives in the DWR’s 2018-2022 Strategic Plan is to “Support F
 
 Opening Session 
 ---------------
-The DWR holds Opening Sessions each August and January before the semester begins. Scheduled, recordings, and supporting materials are archived here.
+The DWR holds Opening Sessions each August and January before the semester begins. Schedules, recordings, and supporting materials are archived here.
 
 .. toctree::
    :maxdepth: 1
